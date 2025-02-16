@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupboxCheckboxEx", "GroupboxCheckboxEx.csproj", "{FC54CAD7-3630-4614-A8CC-CCA5910BBFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC54CAD7-3630-4614-A8CC-CCA5910BBFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC54CAD7-3630-4614-A8CC-CCA5910BBFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC54CAD7-3630-4614-A8CC-CCA5910BBFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC54CAD7-3630-4614-A8CC-CCA5910BBFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8363F1CD-9910-4F95-A80B-AE729FDDFDC6}
+	EndGlobalSection
+EndGlobal
