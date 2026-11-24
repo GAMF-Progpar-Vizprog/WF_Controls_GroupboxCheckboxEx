@@ -1,4 +1,4 @@
-namespace GroupboxCheckboxEx
+namespace WF_Controls_GroupboxCheckboxEx
 {
 	internal static class Program
 	{
